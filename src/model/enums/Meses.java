@@ -1,14 +1,17 @@
-package model;
+package model.enums;
 
 public enum Meses {
+    // ATRIBUTOS
     Enero ("01"), Febrero ("02"), Marzo ("03"), Abril ("04"), Mayo ("05"), Junio ("06"), Julio ("07"),
     Agosto ("08"), Septiembre ("09"), Octubre ("10"), Noviembre ("11"), Diciembre ("12");
-
     private final String value;
+
+    // CONSTRUCTOR
     Meses (String value) {
         this.value = value;
     }
 
+    // MÉTODOS
     public static Meses mesAleatorio(int mes){
         if ((mes == Enero.ordinal())){
             return Enero;
@@ -46,9 +49,9 @@ public enum Meses {
         if ((mes == Diciembre.ordinal())){
             return Diciembre;
         }
-        return null;
+        System.out.println("Mes");
+        return Enero;
     }
-
     public static String devolverFecha(Meses mes){
         return mes.value;
     }

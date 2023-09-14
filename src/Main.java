@@ -1,9 +1,9 @@
-import javax.swing.*;
-import java.awt.*;
+import pantallas.FramePrincipal;
 
 public class Main {
     public static void main(String[] args) {
-        MiMarco miMarco = new MiMarco();
+        FramePrincipal framePrincipal = new FramePrincipal();
+
     }
 }
 

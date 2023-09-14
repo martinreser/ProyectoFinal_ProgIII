@@ -1,0 +1,2481 @@
+
+[Partida comenzada el: 14-09-2023 04:43:59]
+
+----- Personaje Creado -----
+----- Jugador 1 -----
+
+Raza: Elfo
+Nombre: Jime
+Apodo: El Cornuda
+Género: Hombre
+Fecha de Nacimiento (dd-MM-yyyy): 2023-01-01
+Edad: 0
+Velocidad: 1
+Fuerza: 1
+Nivel: 1
+Armadura: 1
+Destreza: 1
+
+----- Personaje Creado -----
+----- Jugador 2 -----
+
+Raza: Humano
+Nombre: Brunhilda
+Apodo: La Chiquilla
+Género: Mujer
+Fecha de Nacimiento (dd-MM-yyyy): 1924-05-25
+Edad: 99
+Velocidad: 5
+Fuerza: 6
+Nivel: 9
+Armadura: 1
+Destreza: 1
+
+----- Personaje Creado -----
+----- Jugador 1 -----
+
+Raza: Elfo
+Nombre: Benedict
+Apodo: El Santo
+Género: Hombre
+Fecha de Nacimiento (dd-MM-yyyy): 1938-02-23
+Edad: 85
+Velocidad: 1
+Fuerza: 8
+Nivel: 10
+Armadura: 8
+Destreza: 1
+
+----- Personaje Creado -----
+----- Jugador 2 -----
+
+Raza: Humano
+Nombre: Martin
+Apodo: El Pijin
+Género: Hombre
+Fecha de Nacimiento (dd-MM-yyyy): 2023-01-01
+Edad: 0
+Velocidad: 1
+Fuerza: 1
+Nivel: 1
+Armadura: 1
+Destreza: 1
+
+----- Personaje Creado -----
+----- Jugador 1 -----
+
+Raza: Elfo
+Nombre: Gregory
+Apodo: El Piadoso
+Género: Hombre
+Fecha de Nacimiento (dd-MM-yyyy): 1978-01-03
+Edad: 45
+Velocidad: 1
+Fuerza: 2
+Nivel: 9
+Armadura: 5
+Destreza: 2
+
+----- Personaje Creado -----
+----- Jugador 2 -----
+
+Raza: Humano
+Nombre: Eleanor
+Apodo: La Chiquilla
+Género: Mujer
+Fecha de Nacimiento (dd-MM-yyyy): 1845-02-12
+Edad: 178
+Velocidad: 5
+Fuerza: 6
+Nivel: 4
+Armadura: 1
+Destreza: 2
+
+--- ¡Comienza la batalla! ---
+
+Límite de ataques por personaje: 7
+
+
+De forma aleatoria, se ha decidido que comience el jugador 2 atacando. Los personajes de esta ronda serán:
+Jugador 1: Benedict 'El Santo'
+Jugador 2: Martin 'El Pijin'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Martin --------
+Martin 'El Pijin' intentó atacar a Benedict 'El Santo' a cuchillazos, provocándole 0.14 de daño. Benedict, tuvo suerte y logró esquivar el ataque.
+- Martin 'El Pijin' tiene 10.0 de salud restante.
+- Benedict 'El Santo' tiene 9.86 de salud restante.
+
+
+-------- Ataque Benedict --------
+Benedict 'El Santo' intentó atacar a Martin 'El Pijin' a golpes, provocándole 0.78 de daño. Martin, tuvo suerte y logró esquivar el ataque.
+- Benedict 'El Santo' tiene 9.86 de salud restante.
+- Martin 'El Pijin' tiene 9.22 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Martin --------
+Martin 'El Pijin' intentó atacar a Benedict 'El Santo' a cuchillazos, provocándole 0.09 de daño. Benedict, tuvo suerte y logró esquivar el ataque.
+- Martin 'El Pijin' tiene 9.22 de salud restante.
+- Benedict 'El Santo' tiene 9.77 de salud restante.
+
+
+-------- Ataque Benedict --------
+Benedict 'El Santo' intentó atacar a Martin 'El Pijin' a golpes, provocándole 1.58 de daño. Martin, tuvo suerte y logró esquivar el ataque.
+- Benedict 'El Santo' tiene 9.77 de salud restante.
+- Martin 'El Pijin' tiene 7.64 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Martin --------
+Martin 'El Pijin' intentó atacar a Benedict 'El Santo' a cuchillazos, provocándole 0.2 de daño. Benedict, tuvo suerte y logró esquivar el ataque.
+- Martin 'El Pijin' tiene 7.64 de salud restante.
+- Benedict 'El Santo' tiene 9.57 de salud restante.
+
+
+-------- Ataque Benedict --------
+Benedict 'El Santo' intentó atacar a Martin 'El Pijin' a machetazos, provocándole 12.04 de daño. Por desgracia, Martin no logró esquivar el ataque, falleciendo al instante.
+- Benedict 'El Santo' tiene 9.57 de salud restante.
+- Martin 'El Pijin' ha muerto en combate. Sin embargo, su nombre quedará en la inmortalidad por dar su vida en la batalla.
+
+
+
+Al jugador 1 le queda (n) 3 personaje (s) vivo (s).
+
+Al jugador 2 le queda (n) 2 personaje (s) vivo (s).
+
+
+Quisimos ser justos, y decidimos darle ventaja al jugador 2 para que él comience atacando esta vez. Los personajes de esta ronda serán:
+Jugador 1: Gregory 'El Piadoso'
+Jugador 2: Eleanor 'La Chiquilla'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Gregory 'El Piadoso' a machetazos, provocándole 1.72 de daño. Gregory, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 10.0 de salud restante.
+- Gregory 'El Piadoso' tiene 8.28 de salud restante.
+
+
+-------- Ataque Gregory --------
+Gregory 'El Piadoso' intentó atacar a Eleanor 'La Chiquilla' a machetazos, provocándole 0.71 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Gregory 'El Piadoso' tiene 8.28 de salud restante.
+- Eleanor 'La Chiquilla' tiene 9.29 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Gregory 'El Piadoso' a cuchillazos, provocándole 0.35 de daño. Gregory, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 9.29 de salud restante.
+- Gregory 'El Piadoso' tiene 7.93 de salud restante.
+
+
+-------- Ataque Gregory --------
+Gregory 'El Piadoso' intentó atacar a Eleanor 'La Chiquilla' a machetazos, provocándole 0.39 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Gregory 'El Piadoso' tiene 7.93 de salud restante.
+- Eleanor 'La Chiquilla' tiene 8.9 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Gregory 'El Piadoso' a cuchillazos, provocándole 0.7 de daño. Gregory, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 8.9 de salud restante.
+- Gregory 'El Piadoso' tiene 7.23 de salud restante.
+
+
+-------- Ataque Gregory --------
+Gregory 'El Piadoso' intentó atacar a Eleanor 'La Chiquilla' a martillazos, provocándole 0.09 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Gregory 'El Piadoso' tiene 7.23 de salud restante.
+- Eleanor 'La Chiquilla' tiene 8.81 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Gregory 'El Piadoso' a golpes, provocándole 0.6 de daño. Gregory, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 8.81 de salud restante.
+- Gregory 'El Piadoso' tiene 6.63 de salud restante.
+
+
+-------- Ataque Gregory --------
+Gregory 'El Piadoso' intentó atacar a Eleanor 'La Chiquilla' a machetazos, provocándole 0.97 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Gregory 'El Piadoso' tiene 6.63 de salud restante.
+- Eleanor 'La Chiquilla' tiene 7.84 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Gregory 'El Piadoso' a golpes, provocándole 1.51 de daño. Gregory, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 7.84 de salud restante.
+- Gregory 'El Piadoso' tiene 5.12 de salud restante.
+
+
+-------- Ataque Gregory --------
+Gregory 'El Piadoso' intentó atacar a Eleanor 'La Chiquilla' a cuchillazos, provocándole 1.04 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Gregory 'El Piadoso' tiene 5.12 de salud restante.
+- Eleanor 'La Chiquilla' tiene 6.8 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Gregory 'El Piadoso' a golpes, provocándole 0.3 de daño. Gregory, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 6.8 de salud restante.
+- Gregory 'El Piadoso' tiene 4.82 de salud restante.
+
+
+-------- Ataque Gregory --------
+Gregory 'El Piadoso' intentó atacar a Eleanor 'La Chiquilla' a martillazos, provocándole 0.55 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Gregory 'El Piadoso' tiene 4.82 de salud restante.
+- Eleanor 'La Chiquilla' tiene 6.25 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Gregory 'El Piadoso' a machetazos, provocándole 0.14 de daño. Gregory, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 6.25 de salud restante.
+- Gregory 'El Piadoso' tiene 4.68 de salud restante.
+
+
+-------- Ataque Gregory --------
+Gregory 'El Piadoso' intentó atacar a Eleanor 'La Chiquilla' a golpes, provocándole 1.04 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Gregory 'El Piadoso' tiene 4.68 de salud restante.
+- Eleanor 'La Chiquilla' tiene 5.21 de salud restante.
+
+
+
+Se ha alcanzado el límite de rondas. En caso de que los personajes sigan vivos, podrán ser utilizados en futuras batallas.
+
+
+Quisimos ser justos, y decidimos darle ventaja al jugador 2 para que él comience atacando esta vez. Los personajes de esta ronda serán:
+Jugador 1: Benedict 'El Santo'
+Jugador 2: Brunhilda 'La Chiquilla'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Brunhilda --------
+Brunhilda 'La Chiquilla' intentó atacar a Benedict 'El Santo' a machetazos, provocándole 3.31 de daño. Benedict, tuvo suerte y logró esquivar el ataque.
+- Brunhilda 'La Chiquilla' tiene 10.0 de salud restante.
+- Benedict 'El Santo' tiene 6.26 de salud restante.
+
+
+-------- Ataque Benedict --------
+Benedict 'El Santo' intentó atacar a Brunhilda 'La Chiquilla' a cuchillazos, provocándole 1.56 de daño. Brunhilda, tuvo suerte y logró esquivar el ataque.
+- Benedict 'El Santo' tiene 6.26 de salud restante.
+- Brunhilda 'La Chiquilla' tiene 8.44 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Brunhilda --------
+Brunhilda 'La Chiquilla' intentó atacar a Benedict 'El Santo' a golpes, provocándole 0.4 de daño. Benedict, tuvo suerte y logró esquivar el ataque.
+- Brunhilda 'La Chiquilla' tiene 8.44 de salud restante.
+- Benedict 'El Santo' tiene 5.86 de salud restante.
+
+
+-------- Ataque Benedict --------
+Benedict 'El Santo' intentó atacar a Brunhilda 'La Chiquilla' a golpes, provocándole 9.83 de daño. Por desgracia, Brunhilda no logró esquivar el ataque, falleciendo al instante.
+- Benedict 'El Santo' tiene 5.86 de salud restante.
+- Brunhilda 'La Chiquilla' ha muerto en combate. Sin embargo, su nombre quedará en la inmortalidad por dar su vida en la batalla.
+
+
+
+Al jugador 1 le queda (n) 3 personaje (s) vivo (s).
+
+Al jugador 2 le queda (n) 1 personaje (s) vivo (s).
+
+
+Quisimos ser justos, y decidimos darle ventaja al jugador 2 para que él comience atacando esta vez. Los personajes de esta ronda serán:
+Jugador 1: Jime 'El Cornuda'
+Jugador 2: Eleanor 'La Chiquilla'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Jime 'El Cornuda' a golpes, provocándole 0.91 de daño. Jime, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 5.21 de salud restante.
+- Jime 'El Cornuda' tiene 9.09 de salud restante.
+
+
+-------- Ataque Jime --------
+Jime 'El Cornuda' intentó atacar a Eleanor 'La Chiquilla' a golpes, provocándole 0.21 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Jime 'El Cornuda' tiene 9.09 de salud restante.
+- Eleanor 'La Chiquilla' tiene 5.0 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Jime 'El Cornuda' a cuchillazos, provocándole 0.61 de daño. Jime, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 5.0 de salud restante.
+- Jime 'El Cornuda' tiene 8.48 de salud restante.
+
+
+-------- Ataque Jime --------
+Jime 'El Cornuda' intentó atacar a Eleanor 'La Chiquilla' a golpes, provocándole 0.01 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Jime 'El Cornuda' tiene 8.48 de salud restante.
+- Eleanor 'La Chiquilla' tiene 4.99 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Jime 'El Cornuda' a cuchillazos, provocándole 0.21 de daño. Jime, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 4.99 de salud restante.
+- Jime 'El Cornuda' tiene 8.27 de salud restante.
+
+
+-------- Ataque Jime --------
+Jime 'El Cornuda' intentó atacar a Eleanor 'La Chiquilla' a golpes, provocándole 0.18 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Jime 'El Cornuda' tiene 8.27 de salud restante.
+- Eleanor 'La Chiquilla' tiene 4.81 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Jime 'El Cornuda' a machetazos, provocándole 3.36 de daño. Jime, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 4.81 de salud restante.
+- Jime 'El Cornuda' tiene 4.91 de salud restante.
+
+
+-------- Ataque Jime --------
+Jime 'El Cornuda' intentó atacar a Eleanor 'La Chiquilla' a martillazos, provocándole 0.09 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Jime 'El Cornuda' tiene 4.91 de salud restante.
+- Eleanor 'La Chiquilla' tiene 4.72 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Jime 'El Cornuda' a machetazos, provocándole 3.39 de daño. Jime, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 4.72 de salud restante.
+- Jime 'El Cornuda' tiene 1.52 de salud restante.
+
+
+-------- Ataque Jime --------
+Jime 'El Cornuda' intentó atacar a Eleanor 'La Chiquilla' a golpes, provocándole 0.16 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Jime 'El Cornuda' tiene 1.52 de salud restante.
+- Eleanor 'La Chiquilla' tiene 4.56 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Jime 'El Cornuda' a martillazos, provocándole 0.72 de daño. Jime, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 4.56 de salud restante.
+- Jime 'El Cornuda' tiene 0.8 de salud restante.
+
+
+-------- Ataque Jime --------
+Jime 'El Cornuda' intentó atacar a Eleanor 'La Chiquilla' a golpes, provocándole 0.16 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Jime 'El Cornuda' tiene 0.8 de salud restante.
+- Eleanor 'La Chiquilla' tiene 4.4 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Jime 'El Cornuda' a machetazos, provocándole 2.21 de daño. Por desgracia, Jime no logró esquivar el ataque, falleciendo al instante.
+- Eleanor 'La Chiquilla' tiene 4.4 de salud restante.
+- Jime 'El Cornuda' ha muerto en combate. Sin embargo, su nombre quedará en la inmortalidad por dar su vida en la batalla.
+
+
+
+Al jugador 1 le queda (n) 2 personaje (s) vivo (s).
+
+Al jugador 2 le queda (n) 1 personaje (s) vivo (s).
+
+
+Quisimos ser justos, y decidimos darle ventaja al jugador 1 para que él comience atacando esta vez. Los personajes de esta ronda serán:
+Jugador 1: Gregory 'El Piadoso'
+Jugador 2: Eleanor 'La Chiquilla'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Gregory --------
+Gregory 'El Piadoso' intentó atacar a Eleanor 'La Chiquilla' a martillazos, provocándole 0.48 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Gregory 'El Piadoso' tiene 4.68 de salud restante.
+- Eleanor 'La Chiquilla' tiene 3.92 de salud restante.
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Gregory 'El Piadoso' a golpes, provocándole 3.89 de daño. Gregory, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 3.92 de salud restante.
+- Gregory 'El Piadoso' tiene 0.79 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Gregory --------
+Gregory 'El Piadoso' intentó atacar a Eleanor 'La Chiquilla' a golpes, provocándole 0.82 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Gregory 'El Piadoso' tiene 0.79 de salud restante.
+- Eleanor 'La Chiquilla' tiene 3.1 de salud restante.
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Gregory 'El Piadoso' a martillazos, provocándole 0.66 de daño. Gregory, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 3.1 de salud restante.
+- Gregory 'El Piadoso' tiene 0.13 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Gregory --------
+Gregory 'El Piadoso' intentó atacar a Eleanor 'La Chiquilla' a machetazos, provocándole 0.58 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Gregory 'El Piadoso' tiene 0.13 de salud restante.
+- Eleanor 'La Chiquilla' tiene 2.52 de salud restante.
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Gregory 'El Piadoso' a machetazos, provocándole 0.79 de daño. Por desgracia, Gregory no logró esquivar el ataque, falleciendo al instante.
+- Eleanor 'La Chiquilla' tiene 2.52 de salud restante.
+- Gregory 'El Piadoso' ha muerto en combate. Sin embargo, su nombre quedará en la inmortalidad por dar su vida en la batalla.
+
+
+
+Al jugador 1 le queda (n) 1 personaje (s) vivo (s).
+
+Al jugador 2 le queda (n) 1 personaje (s) vivo (s).
+
+
+Quisimos ser justos, y decidimos darle ventaja al jugador 1 para que él comience atacando esta vez. Los personajes de esta ronda serán:
+Jugador 1: Benedict 'El Santo'
+Jugador 2: Eleanor 'La Chiquilla'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Benedict --------
+Benedict 'El Santo' intentó atacar a Eleanor 'La Chiquilla' a cuchillazos, provocándole 1.61 de daño. Eleanor, tuvo suerte y logró esquivar el ataque.
+- Benedict 'El Santo' tiene 5.86 de salud restante.
+- Eleanor 'La Chiquilla' tiene 0.91 de salud restante.
+
+
+-------- Ataque Eleanor --------
+Eleanor 'La Chiquilla' intentó atacar a Benedict 'El Santo' a cuchillazos, provocándole 0.84 de daño. Benedict, tuvo suerte y logró esquivar el ataque.
+- Eleanor 'La Chiquilla' tiene 0.91 de salud restante.
+- Benedict 'El Santo' tiene 5.02 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Benedict --------
+Benedict 'El Santo' intentó atacar a Eleanor 'La Chiquilla' a cuchillazos, provocándole 8.39 de daño. Por desgracia, Eleanor no logró esquivar el ataque, falleciendo al instante.
+- Benedict 'El Santo' tiene 5.02 de salud restante.
+- Eleanor 'La Chiquilla' ha muerto en combate. Sin embargo, su nombre quedará en la inmortalidad por dar su vida en la batalla.
+
+
+
+Al jugador 1 le queda (n) 1 personaje (s) vivo (s).
+
+Han muerto todos los personajes del jugador 2.
+
+--- Felicitaciones Jugador 1 ---
+
+¡Eres el conquistador del trono!
+
+Tus soldados:
+1- [Elfo] Jime 'El Cornuda' [Salud: 0.0]
+2- [Elfo] Benedict 'El Santo' [Salud: 5.02]
+3- [Elfo] Gregory 'El Piadoso' [Salud: 0.0]
+
+
+
+[Partida comenzada el: 14-09-2023 04:53:28]
+
+----- Personaje Creado -----
+----- Jugador 1 -----
+
+Raza: Elfo
+Nombre: Olive
+Apodo: La Sabia
+Género: Mujer
+Fecha de Nacimiento (dd-MM-yyyy): 1805-05-05
+Edad: 218
+Velocidad: 1
+Fuerza: 1
+Nivel: 7
+Armadura: 8
+Destreza: 5
+
+----- Personaje Creado -----
+----- Jugador 2 -----
+
+Raza: Elfo
+Nombre: Bahram
+Apodo: El Santo
+Género: Hombre
+Fecha de Nacimiento (dd-MM-yyyy): 1829-08-09
+Edad: 194
+Velocidad: 3
+Fuerza: 3
+Nivel: 2
+Armadura: 7
+Destreza: 3
+
+----- Personaje Creado -----
+----- Jugador 1 -----
+
+Raza: Elfo
+Nombre: Zelda
+Apodo: La Sabia
+Género: Mujer
+Fecha de Nacimiento (dd-MM-yyyy): 1928-07-31
+Edad: 95
+Velocidad: 7
+Fuerza: 3
+Nivel: 3
+Armadura: 1
+Destreza: 5
+
+----- Personaje Creado -----
+----- Jugador 2 -----
+
+Raza: Elfo
+Nombre: Eithne
+Apodo: La Emperadora
+Género: Mujer
+Fecha de Nacimiento (dd-MM-yyyy): 1781-07-21
+Edad: 242
+Velocidad: 4
+Fuerza: 3
+Nivel: 4
+Armadura: 6
+Destreza: 2
+
+----- Personaje Creado -----
+----- Jugador 1 -----
+
+Raza: Elfo
+Nombre: Jeremiah
+Apodo: El Impotente
+Género: Hombre
+Fecha de Nacimiento (dd-MM-yyyy): 1894-09-03
+Edad: 129
+Velocidad: 2
+Fuerza: 7
+Nivel: 2
+Armadura: 5
+Destreza: 4
+
+----- Personaje Creado -----
+----- Jugador 2 -----
+
+Raza: Humano
+Nombre: Merlin
+Apodo: El Hechizado
+Género: Hombre
+Fecha de Nacimiento (dd-MM-yyyy): 1814-10-14
+Edad: 209
+Velocidad: 2
+Fuerza: 10
+Nivel: 2
+Armadura: 6
+Destreza: 1
+
+--- ¡Comienza la batalla! ---
+
+Límite de ataques por personaje: 7
+
+
+De forma aleatoria, se ha decidido que comience el jugador 1 atacando. Los personajes de esta ronda serán:
+Jugador 1: Jeremiah 'El Impotente'
+Jugador 2: Merlin 'El Hechizado'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Merlin 'El Hechizado' a martillazos, provocándole 1.34 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 100.0 de salud restante.
+- Merlin 'El Hechizado' tiene 98.66 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Jeremiah 'El Impotente' a cuchillazos, provocándole 2.25 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 98.66 de salud restante.
+- Jeremiah 'El Impotente' tiene 97.75 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Merlin 'El Hechizado' a machetazos, provocándole 3.0 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 97.75 de salud restante.
+- Merlin 'El Hechizado' tiene 95.66 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Jeremiah 'El Impotente' a cuchillazos, provocándole 1.27 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 95.66 de salud restante.
+- Jeremiah 'El Impotente' tiene 96.48 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Merlin 'El Hechizado' a cuchillazos, provocándole 1.09 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 96.48 de salud restante.
+- Merlin 'El Hechizado' tiene 94.57 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Jeremiah 'El Impotente' a cuchillazos, provocándole 2.23 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 94.57 de salud restante.
+- Jeremiah 'El Impotente' tiene 94.25 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Merlin 'El Hechizado' a golpes, provocándole 2.82 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 94.25 de salud restante.
+- Merlin 'El Hechizado' tiene 91.75 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Jeremiah 'El Impotente' a cuchillazos, provocándole 0.7 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 91.75 de salud restante.
+- Jeremiah 'El Impotente' tiene 93.55 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Merlin 'El Hechizado' a machetazos, provocándole 0.84 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 93.55 de salud restante.
+- Merlin 'El Hechizado' tiene 90.91 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Jeremiah 'El Impotente' a golpes, provocándole 1.42 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 90.91 de salud restante.
+- Jeremiah 'El Impotente' tiene 92.13 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Merlin 'El Hechizado' a martillazos, provocándole 1.46 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 92.13 de salud restante.
+- Merlin 'El Hechizado' tiene 89.45 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Jeremiah 'El Impotente' a cuchillazos, provocándole 0.71 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 89.45 de salud restante.
+- Jeremiah 'El Impotente' tiene 91.42 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Merlin 'El Hechizado' a golpes, provocándole 2.03 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 91.42 de salud restante.
+- Merlin 'El Hechizado' tiene 87.42 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Jeremiah 'El Impotente' a machetazos, provocándole 1.97 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 87.42 de salud restante.
+- Jeremiah 'El Impotente' tiene 89.45 de salud restante.
+
+
+
+Se ha alcanzado el límite de rondas. En caso de que los personajes sigan vivos, podrán ser utilizados en futuras batallas.
+
+
+De forma aleatoria, se ha decidido que comience el jugador 1 atacando. Los personajes de esta ronda serán:
+Jugador 1: Zelda 'La Sabia'
+Jugador 2: Merlin 'El Hechizado'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Merlin 'El Hechizado' a martillazos, provocándole 2.88 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 100.0 de salud restante.
+- Merlin 'El Hechizado' tiene 84.54 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Zelda 'La Sabia' a cuchillazos, provocándole 2.39 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 84.54 de salud restante.
+- Zelda 'La Sabia' tiene 97.61 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Merlin 'El Hechizado' a cuchillazos, provocándole 0.77 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 97.61 de salud restante.
+- Merlin 'El Hechizado' tiene 83.77 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Zelda 'La Sabia' a golpes, provocándole 1.84 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 83.77 de salud restante.
+- Zelda 'La Sabia' tiene 95.77 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Merlin 'El Hechizado' a machetazos, provocándole 0.68 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 95.77 de salud restante.
+- Merlin 'El Hechizado' tiene 83.09 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Zelda 'La Sabia' a machetazos, provocándole 2.24 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 83.09 de salud restante.
+- Zelda 'La Sabia' tiene 93.53 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Merlin 'El Hechizado' a golpes, provocándole 0.21 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 93.53 de salud restante.
+- Merlin 'El Hechizado' tiene 82.88 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Zelda 'La Sabia' a cuchillazos, provocándole 2.36 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 82.88 de salud restante.
+- Zelda 'La Sabia' tiene 91.17 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Merlin 'El Hechizado' a cuchillazos, provocándole 0.99 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 91.17 de salud restante.
+- Merlin 'El Hechizado' tiene 81.89 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Zelda 'La Sabia' a cuchillazos, provocándole 2.07 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 81.89 de salud restante.
+- Zelda 'La Sabia' tiene 89.1 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Merlin 'El Hechizado' a martillazos, provocándole 1.46 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 89.1 de salud restante.
+- Merlin 'El Hechizado' tiene 80.43 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Zelda 'La Sabia' a cuchillazos, provocándole 1.84 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 80.43 de salud restante.
+- Zelda 'La Sabia' tiene 87.26 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Merlin 'El Hechizado' a golpes, provocándole 1.37 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 87.26 de salud restante.
+- Merlin 'El Hechizado' tiene 79.06 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Zelda 'La Sabia' a golpes, provocándole 1.42 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 79.06 de salud restante.
+- Zelda 'La Sabia' tiene 85.84 de salud restante.
+
+
+
+Se ha alcanzado el límite de rondas. En caso de que los personajes sigan vivos, podrán ser utilizados en futuras batallas.
+
+
+De forma aleatoria, se ha decidido que comience el jugador 1 atacando. Los personajes de esta ronda serán:
+Jugador 1: Olive 'La Sabia'
+Jugador 2: Eithne 'La Emperadora'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a machetazos, provocándole 4.44 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 100.0 de salud restante.
+- Eithne 'La Emperadora' tiene 95.56 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a machetazos, provocándole 5.01 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 95.56 de salud restante.
+- Olive 'La Sabia' tiene 94.99 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a machetazos, provocándole 0.12 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 94.99 de salud restante.
+- Eithne 'La Emperadora' tiene 95.44 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a cuchillazos, provocándole 4.89 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 95.44 de salud restante.
+- Olive 'La Sabia' tiene 90.1 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a cuchillazos, provocándole 1.63 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 90.1 de salud restante.
+- Eithne 'La Emperadora' tiene 93.81 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a cuchillazos, provocándole 4.63 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 93.81 de salud restante.
+- Olive 'La Sabia' tiene 85.47 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a machetazos, provocándole 0.67 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 85.47 de salud restante.
+- Eithne 'La Emperadora' tiene 93.14 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a martillazos, provocándole 4.96 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 93.14 de salud restante.
+- Olive 'La Sabia' tiene 80.51 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a martillazos, provocándole 3.02 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 80.51 de salud restante.
+- Eithne 'La Emperadora' tiene 90.12 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a cuchillazos, provocándole 4.25 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 90.12 de salud restante.
+- Olive 'La Sabia' tiene 76.26 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a machetazos, provocándole 0.89 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 76.26 de salud restante.
+- Eithne 'La Emperadora' tiene 89.23 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a machetazos, provocándole 4.08 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 89.23 de salud restante.
+- Olive 'La Sabia' tiene 72.18 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a martillazos, provocándole 0.01 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 72.18 de salud restante.
+- Eithne 'La Emperadora' tiene 89.22 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a golpes, provocándole 4.58 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 89.22 de salud restante.
+- Olive 'La Sabia' tiene 67.6 de salud restante.
+
+
+
+Se ha alcanzado el límite de rondas. En caso de que los personajes sigan vivos, podrán ser utilizados en futuras batallas.
+
+
+De forma aleatoria, se ha decidido que comience el jugador 2 atacando. Los personajes de esta ronda serán:
+Jugador 1: Jeremiah 'El Impotente'
+Jugador 2: Bahram 'El Santo'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Jeremiah 'El Impotente' a martillazos, provocándole 1.37 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 100.0 de salud restante.
+- Jeremiah 'El Impotente' tiene 88.08 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Bahram 'El Santo' a cuchillazos, provocándole 0.05 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 88.08 de salud restante.
+- Bahram 'El Santo' tiene 99.95 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Jeremiah 'El Impotente' a cuchillazos, provocándole 4.32 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 99.95 de salud restante.
+- Jeremiah 'El Impotente' tiene 83.76 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Bahram 'El Santo' a golpes, provocándole 6.01 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 83.76 de salud restante.
+- Bahram 'El Santo' tiene 93.94 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Jeremiah 'El Impotente' a martillazos, provocándole 3.4 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 93.94 de salud restante.
+- Jeremiah 'El Impotente' tiene 80.36 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Bahram 'El Santo' a golpes, provocándole 4.83 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 80.36 de salud restante.
+- Bahram 'El Santo' tiene 89.11 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Jeremiah 'El Impotente' a golpes, provocándole 3.19 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 89.11 de salud restante.
+- Jeremiah 'El Impotente' tiene 77.17 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Bahram 'El Santo' a golpes, provocándole 1.85 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 77.17 de salud restante.
+- Bahram 'El Santo' tiene 87.26 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Jeremiah 'El Impotente' a machetazos, provocándole 3.28 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 87.26 de salud restante.
+- Jeremiah 'El Impotente' tiene 73.89 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Bahram 'El Santo' a machetazos, provocándole 1.19 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 73.89 de salud restante.
+- Bahram 'El Santo' tiene 86.07 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Jeremiah 'El Impotente' a martillazos, provocándole 2.54 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 86.07 de salud restante.
+- Jeremiah 'El Impotente' tiene 71.35 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Bahram 'El Santo' a martillazos, provocándole 0.85 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 71.35 de salud restante.
+- Bahram 'El Santo' tiene 85.22 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Jeremiah 'El Impotente' a machetazos, provocándole 3.71 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 85.22 de salud restante.
+- Jeremiah 'El Impotente' tiene 67.64 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Bahram 'El Santo' a cuchillazos, provocándole 0.02 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 67.64 de salud restante.
+- Bahram 'El Santo' tiene 85.2 de salud restante.
+
+
+
+Se ha alcanzado el límite de rondas. En caso de que los personajes sigan vivos, podrán ser utilizados en futuras batallas.
+
+
+De forma aleatoria, se ha decidido que comience el jugador 2 atacando. Los personajes de esta ronda serán:
+Jugador 1: Zelda 'La Sabia'
+Jugador 2: Bahram 'El Santo'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Zelda 'La Sabia' a golpes, provocándole 2.28 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 85.2 de salud restante.
+- Zelda 'La Sabia' tiene 83.56 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Bahram 'El Santo' a golpes, provocándole 1.27 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 83.56 de salud restante.
+- Bahram 'El Santo' tiene 83.93 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Zelda 'La Sabia' a cuchillazos, provocándole 3.75 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 83.93 de salud restante.
+- Zelda 'La Sabia' tiene 79.81 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Bahram 'El Santo' a martillazos, provocándole 0.23 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 79.81 de salud restante.
+- Bahram 'El Santo' tiene 83.7 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Zelda 'La Sabia' a golpes, provocándole 3.7 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 83.7 de salud restante.
+- Zelda 'La Sabia' tiene 76.11 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Bahram 'El Santo' a martillazos, provocándole 0.95 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 76.11 de salud restante.
+- Bahram 'El Santo' tiene 82.75 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Zelda 'La Sabia' a machetazos, provocándole 3.44 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 82.75 de salud restante.
+- Zelda 'La Sabia' tiene 72.67 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Bahram 'El Santo' a machetazos, provocándole 1.09 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 72.67 de salud restante.
+- Bahram 'El Santo' tiene 81.66 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Zelda 'La Sabia' a machetazos, provocándole 2.01 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 81.66 de salud restante.
+- Zelda 'La Sabia' tiene 70.66 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Bahram 'El Santo' a cuchillazos, provocándole 1.5 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 70.66 de salud restante.
+- Bahram 'El Santo' tiene 80.16 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Zelda 'La Sabia' a machetazos, provocándole 4.36 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 80.16 de salud restante.
+- Zelda 'La Sabia' tiene 66.3 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Bahram 'El Santo' a cuchillazos, provocándole 1.31 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 66.3 de salud restante.
+- Bahram 'El Santo' tiene 78.85 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Zelda 'La Sabia' a golpes, provocándole 3.34 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 78.85 de salud restante.
+- Zelda 'La Sabia' tiene 62.96 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Bahram 'El Santo' a cuchillazos, provocándole 0.34 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 62.96 de salud restante.
+- Bahram 'El Santo' tiene 78.51 de salud restante.
+
+
+
+Se ha alcanzado el límite de rondas. En caso de que los personajes sigan vivos, podrán ser utilizados en futuras batallas.
+
+
+De forma aleatoria, se ha decidido que comience el jugador 1 atacando. Los personajes de esta ronda serán:
+Jugador 1: Olive 'La Sabia'
+Jugador 2: Bahram 'El Santo'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Bahram 'El Santo' a golpes, provocándole 2.95 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 67.6 de salud restante.
+- Bahram 'El Santo' tiene 75.56 de salud restante.
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Olive 'La Sabia' a golpes, provocándole 4.29 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 75.56 de salud restante.
+- Olive 'La Sabia' tiene 63.31 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Bahram 'El Santo' a machetazos, provocándole 4.2 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 63.31 de salud restante.
+- Bahram 'El Santo' tiene 71.36 de salud restante.
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Olive 'La Sabia' a golpes, provocándole 3.62 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 71.36 de salud restante.
+- Olive 'La Sabia' tiene 59.69 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Bahram 'El Santo' a machetazos, provocándole 0.99 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 59.69 de salud restante.
+- Bahram 'El Santo' tiene 70.37 de salud restante.
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Olive 'La Sabia' a golpes, provocándole 4.27 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 70.37 de salud restante.
+- Olive 'La Sabia' tiene 55.42 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Bahram 'El Santo' a machetazos, provocándole 0.56 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 55.42 de salud restante.
+- Bahram 'El Santo' tiene 69.81 de salud restante.
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Olive 'La Sabia' a cuchillazos, provocándole 3.0 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 69.81 de salud restante.
+- Olive 'La Sabia' tiene 52.42 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Bahram 'El Santo' a golpes, provocándole 1.31 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 52.42 de salud restante.
+- Bahram 'El Santo' tiene 68.5 de salud restante.
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Olive 'La Sabia' a machetazos, provocándole 3.33 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 68.5 de salud restante.
+- Olive 'La Sabia' tiene 49.09 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Bahram 'El Santo' a martillazos, provocándole 0.45 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 49.09 de salud restante.
+- Bahram 'El Santo' tiene 68.05 de salud restante.
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Olive 'La Sabia' a machetazos, provocándole 4.13 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 68.05 de salud restante.
+- Olive 'La Sabia' tiene 44.96 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Bahram 'El Santo' a cuchillazos, provocándole 1.2 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 44.96 de salud restante.
+- Bahram 'El Santo' tiene 66.85 de salud restante.
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Olive 'La Sabia' a martillazos, provocándole 3.45 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 66.85 de salud restante.
+- Olive 'La Sabia' tiene 41.51 de salud restante.
+
+
+
+Se ha alcanzado el límite de rondas. En caso de que los personajes sigan vivos, podrán ser utilizados en futuras batallas.
+
+
+De forma aleatoria, se ha decidido que comience el jugador 2 atacando. Los personajes de esta ronda serán:
+Jugador 1: Jeremiah 'El Impotente'
+Jugador 2: Bahram 'El Santo'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Jeremiah 'El Impotente' a machetazos, provocándole 2.4 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 66.85 de salud restante.
+- Jeremiah 'El Impotente' tiene 65.24 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Bahram 'El Santo' a machetazos, provocándole 1.67 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 65.24 de salud restante.
+- Bahram 'El Santo' tiene 65.18 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Jeremiah 'El Impotente' a martillazos, provocándole 4.09 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 65.18 de salud restante.
+- Jeremiah 'El Impotente' tiene 61.15 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Bahram 'El Santo' a golpes, provocándole 1.71 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 61.15 de salud restante.
+- Bahram 'El Santo' tiene 63.47 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Jeremiah 'El Impotente' a golpes, provocándole 2.71 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 63.47 de salud restante.
+- Jeremiah 'El Impotente' tiene 58.44 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Bahram 'El Santo' a cuchillazos, provocándole 1.75 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 58.44 de salud restante.
+- Bahram 'El Santo' tiene 61.72 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Jeremiah 'El Impotente' a machetazos, provocándole 2.3 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 61.72 de salud restante.
+- Jeremiah 'El Impotente' tiene 56.14 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Bahram 'El Santo' a martillazos, provocándole 1.95 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 56.14 de salud restante.
+- Bahram 'El Santo' tiene 59.77 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Jeremiah 'El Impotente' a golpes, provocándole 4.41 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 59.77 de salud restante.
+- Jeremiah 'El Impotente' tiene 51.73 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Bahram 'El Santo' a machetazos, provocándole 1.41 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 51.73 de salud restante.
+- Bahram 'El Santo' tiene 58.36 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Jeremiah 'El Impotente' a golpes, provocándole 4.14 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 58.36 de salud restante.
+- Jeremiah 'El Impotente' tiene 47.59 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Bahram 'El Santo' a cuchillazos, provocándole 9.42 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 47.59 de salud restante.
+- Bahram 'El Santo' tiene 48.94 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Bahram --------
+Bahram 'El Santo' intentó atacar a Jeremiah 'El Impotente' a martillazos, provocándole 3.4 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Bahram 'El Santo' tiene 48.94 de salud restante.
+- Jeremiah 'El Impotente' tiene 44.19 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Bahram 'El Santo' a machetazos, provocándole 1.5 de daño. Bahram, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 44.19 de salud restante.
+- Bahram 'El Santo' tiene 47.44 de salud restante.
+
+
+
+Se ha alcanzado el límite de rondas. En caso de que los personajes sigan vivos, podrán ser utilizados en futuras batallas.
+
+
+De forma aleatoria, se ha decidido que comience el jugador 2 atacando. Los personajes de esta ronda serán:
+Jugador 1: Olive 'La Sabia'
+Jugador 2: Eithne 'La Emperadora'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a martillazos, provocándole 4.84 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 89.22 de salud restante.
+- Olive 'La Sabia' tiene 36.67 de salud restante.
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a golpes, provocándole 0.3 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 36.67 de salud restante.
+- Eithne 'La Emperadora' tiene 88.92 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a martillazos, provocándole 4.93 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 88.92 de salud restante.
+- Olive 'La Sabia' tiene 31.74 de salud restante.
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a martillazos, provocándole 1.64 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 31.74 de salud restante.
+- Eithne 'La Emperadora' tiene 87.28 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a machetazos, provocándole 2.33 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 87.28 de salud restante.
+- Olive 'La Sabia' tiene 29.41 de salud restante.
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a martillazos, provocándole 1.52 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 29.41 de salud restante.
+- Eithne 'La Emperadora' tiene 85.76 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a machetazos, provocándole 2.95 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 85.76 de salud restante.
+- Olive 'La Sabia' tiene 26.46 de salud restante.
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a golpes, provocándole 0.54 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 26.46 de salud restante.
+- Eithne 'La Emperadora' tiene 85.22 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a martillazos, provocándole 3.01 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 85.22 de salud restante.
+- Olive 'La Sabia' tiene 23.45 de salud restante.
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a cuchillazos, provocándole 1.45 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 23.45 de salud restante.
+- Eithne 'La Emperadora' tiene 83.77 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a cuchillazos, provocándole 4.72 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 83.77 de salud restante.
+- Olive 'La Sabia' tiene 18.73 de salud restante.
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a martillazos, provocándole 1.45 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 18.73 de salud restante.
+- Eithne 'La Emperadora' tiene 82.32 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a golpes, provocándole 3.64 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 82.32 de salud restante.
+- Olive 'La Sabia' tiene 15.09 de salud restante.
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a machetazos, provocándole 0.49 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 15.09 de salud restante.
+- Eithne 'La Emperadora' tiene 81.83 de salud restante.
+
+
+
+Se ha alcanzado el límite de rondas. En caso de que los personajes sigan vivos, podrán ser utilizados en futuras batallas.
+
+
+De forma aleatoria, se ha decidido que comience el jugador 1 atacando. Los personajes de esta ronda serán:
+Jugador 1: Jeremiah 'El Impotente'
+Jugador 2: Eithne 'La Emperadora'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Eithne 'La Emperadora' a golpes, provocándole 0.35 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 44.19 de salud restante.
+- Eithne 'La Emperadora' tiene 81.48 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Jeremiah 'El Impotente' a machetazos, provocándole 4.6 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 81.48 de salud restante.
+- Jeremiah 'El Impotente' tiene 39.59 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Eithne 'La Emperadora' a cuchillazos, provocándole 0.42 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 39.59 de salud restante.
+- Eithne 'La Emperadora' tiene 81.06 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Jeremiah 'El Impotente' a machetazos, provocándole 4.75 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 81.06 de salud restante.
+- Jeremiah 'El Impotente' tiene 34.84 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Eithne 'La Emperadora' a martillazos, provocándole 1.07 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 34.84 de salud restante.
+- Eithne 'La Emperadora' tiene 79.99 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Jeremiah 'El Impotente' a golpes, provocándole 3.25 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 79.99 de salud restante.
+- Jeremiah 'El Impotente' tiene 31.59 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Eithne 'La Emperadora' a golpes, provocándole 1.73 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 31.59 de salud restante.
+- Eithne 'La Emperadora' tiene 78.26 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Jeremiah 'El Impotente' a golpes, provocándole 4.8 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 78.26 de salud restante.
+- Jeremiah 'El Impotente' tiene 26.79 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Eithne 'La Emperadora' a machetazos, provocándole 0.36 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 26.79 de salud restante.
+- Eithne 'La Emperadora' tiene 77.9 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Jeremiah 'El Impotente' a golpes, provocándole 3.9 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 77.9 de salud restante.
+- Jeremiah 'El Impotente' tiene 22.89 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Eithne 'La Emperadora' a cuchillazos, provocándole 0.1 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 22.89 de salud restante.
+- Eithne 'La Emperadora' tiene 77.8 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Jeremiah 'El Impotente' a machetazos, provocándole 4.96 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 77.8 de salud restante.
+- Jeremiah 'El Impotente' tiene 17.93 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Eithne 'La Emperadora' a martillazos, provocándole 2.9 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 17.93 de salud restante.
+- Eithne 'La Emperadora' tiene 74.9 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Jeremiah 'El Impotente' a martillazos, provocándole 4.02 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 74.9 de salud restante.
+- Jeremiah 'El Impotente' tiene 13.91 de salud restante.
+
+
+
+Se ha alcanzado el límite de rondas. En caso de que los personajes sigan vivos, podrán ser utilizados en futuras batallas.
+
+
+De forma aleatoria, se ha decidido que comience el jugador 1 atacando. Los personajes de esta ronda serán:
+Jugador 1: Zelda 'La Sabia'
+Jugador 2: Eithne 'La Emperadora'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Eithne 'La Emperadora' a cuchillazos, provocándole 2.06 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 62.96 de salud restante.
+- Eithne 'La Emperadora' tiene 72.84 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Zelda 'La Sabia' a machetazos, provocándole 3.74 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 72.84 de salud restante.
+- Zelda 'La Sabia' tiene 59.22 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Eithne 'La Emperadora' a golpes, provocándole 1.06 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 59.22 de salud restante.
+- Eithne 'La Emperadora' tiene 71.78 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Zelda 'La Sabia' a machetazos, provocándole 5.0 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 71.78 de salud restante.
+- Zelda 'La Sabia' tiene 54.22 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Eithne 'La Emperadora' a cuchillazos, provocándole 6.79 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 54.22 de salud restante.
+- Eithne 'La Emperadora' tiene 64.99 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Zelda 'La Sabia' a martillazos, provocándole 4.34 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 64.99 de salud restante.
+- Zelda 'La Sabia' tiene 49.88 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Eithne 'La Emperadora' a cuchillazos, provocándole 1.46 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 49.88 de salud restante.
+- Eithne 'La Emperadora' tiene 63.53 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Zelda 'La Sabia' a cuchillazos, provocándole 4.66 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 63.53 de salud restante.
+- Zelda 'La Sabia' tiene 45.22 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Eithne 'La Emperadora' a martillazos, provocándole 0.88 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 45.22 de salud restante.
+- Eithne 'La Emperadora' tiene 62.65 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Zelda 'La Sabia' a golpes, provocándole 3.18 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 62.65 de salud restante.
+- Zelda 'La Sabia' tiene 42.04 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Eithne 'La Emperadora' a martillazos, provocándole 1.46 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 42.04 de salud restante.
+- Eithne 'La Emperadora' tiene 61.19 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Zelda 'La Sabia' a machetazos, provocándole 1.85 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 61.19 de salud restante.
+- Zelda 'La Sabia' tiene 40.19 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Eithne 'La Emperadora' a golpes, provocándole 1.14 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 40.19 de salud restante.
+- Eithne 'La Emperadora' tiene 60.05 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Zelda 'La Sabia' a martillazos, provocándole 0.16 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 60.05 de salud restante.
+- Zelda 'La Sabia' tiene 40.03 de salud restante.
+
+
+
+Se ha alcanzado el límite de rondas. En caso de que los personajes sigan vivos, podrán ser utilizados en futuras batallas.
+
+
+De forma aleatoria, se ha decidido que comience el jugador 2 atacando. Los personajes de esta ronda serán:
+Jugador 1: Jeremiah 'El Impotente'
+Jugador 2: Merlin 'El Hechizado'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Jeremiah 'El Impotente' a martillazos, provocándole 2.07 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 79.06 de salud restante.
+- Jeremiah 'El Impotente' tiene 11.84 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Merlin 'El Hechizado' a golpes, provocándole 8.01 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 11.84 de salud restante.
+- Merlin 'El Hechizado' tiene 71.05 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Jeremiah 'El Impotente' a martillazos, provocándole 1.88 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 71.05 de salud restante.
+- Jeremiah 'El Impotente' tiene 9.96 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Merlin 'El Hechizado' a cuchillazos, provocándole 2.05 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 9.96 de salud restante.
+- Merlin 'El Hechizado' tiene 69.0 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Jeremiah 'El Impotente' a cuchillazos, provocándole 1.99 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 69.0 de salud restante.
+- Jeremiah 'El Impotente' tiene 7.97 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Merlin 'El Hechizado' a machetazos, provocándole 6.72 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 7.97 de salud restante.
+- Merlin 'El Hechizado' tiene 62.28 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Jeremiah 'El Impotente' a machetazos, provocándole 1.18 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 62.28 de salud restante.
+- Jeremiah 'El Impotente' tiene 6.79 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Merlin 'El Hechizado' a cuchillazos, provocándole 0.47 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 6.79 de salud restante.
+- Merlin 'El Hechizado' tiene 61.81 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Jeremiah 'El Impotente' a cuchillazos, provocándole 2.32 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 61.81 de salud restante.
+- Jeremiah 'El Impotente' tiene 4.47 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Merlin 'El Hechizado' a golpes, provocándole 1.0 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 4.47 de salud restante.
+- Merlin 'El Hechizado' tiene 60.81 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Jeremiah 'El Impotente' a cuchillazos, provocándole 1.54 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 60.81 de salud restante.
+- Jeremiah 'El Impotente' tiene 2.93 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Merlin 'El Hechizado' a cuchillazos, provocándole 0.18 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 2.93 de salud restante.
+- Merlin 'El Hechizado' tiene 60.63 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Jeremiah 'El Impotente' a machetazos, provocándole 0.04 de daño. Jeremiah, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 60.63 de salud restante.
+- Jeremiah 'El Impotente' tiene 2.89 de salud restante.
+
+
+-------- Ataque Jeremiah --------
+Jeremiah 'El Impotente' intentó atacar a Merlin 'El Hechizado' a cuchillazos, provocándole 1.8 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Jeremiah 'El Impotente' tiene 2.89 de salud restante.
+- Merlin 'El Hechizado' tiene 58.83 de salud restante.
+
+
+
+Se ha alcanzado el límite de rondas. En caso de que los personajes sigan vivos, podrán ser utilizados en futuras batallas.
+
+
+De forma aleatoria, se ha decidido que comience el jugador 2 atacando. Los personajes de esta ronda serán:
+Jugador 1: Zelda 'La Sabia'
+Jugador 2: Eithne 'La Emperadora'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Zelda 'La Sabia' a golpes, provocándole 3.96 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 60.05 de salud restante.
+- Zelda 'La Sabia' tiene 36.07 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Eithne 'La Emperadora' a machetazos, provocándole 0.68 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 36.07 de salud restante.
+- Eithne 'La Emperadora' tiene 59.37 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Zelda 'La Sabia' a martillazos, provocándole 3.46 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 59.37 de salud restante.
+- Zelda 'La Sabia' tiene 32.61 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Eithne 'La Emperadora' a martillazos, provocándole 1.46 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 32.61 de salud restante.
+- Eithne 'La Emperadora' tiene 57.91 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Zelda 'La Sabia' a cuchillazos, provocándole 4.71 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 57.91 de salud restante.
+- Zelda 'La Sabia' tiene 27.9 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Eithne 'La Emperadora' a martillazos, provocándole 0.94 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 27.9 de salud restante.
+- Eithne 'La Emperadora' tiene 56.97 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Zelda 'La Sabia' a golpes, provocándole 4.72 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 56.97 de salud restante.
+- Zelda 'La Sabia' tiene 23.18 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Eithne 'La Emperadora' a golpes, provocándole 1.22 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 23.18 de salud restante.
+- Eithne 'La Emperadora' tiene 55.75 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Zelda 'La Sabia' a machetazos, provocándole 2.38 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 55.75 de salud restante.
+- Zelda 'La Sabia' tiene 20.8 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Eithne 'La Emperadora' a cuchillazos, provocándole 2.44 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 20.8 de salud restante.
+- Eithne 'La Emperadora' tiene 53.31 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Zelda 'La Sabia' a golpes, provocándole 3.73 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 53.31 de salud restante.
+- Zelda 'La Sabia' tiene 17.07 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Eithne 'La Emperadora' a machetazos, provocándole 4.08 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 17.07 de salud restante.
+- Eithne 'La Emperadora' tiene 49.23 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Zelda 'La Sabia' a machetazos, provocándole 3.77 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 49.23 de salud restante.
+- Zelda 'La Sabia' tiene 13.3 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Eithne 'La Emperadora' a machetazos, provocándole 0.84 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 13.3 de salud restante.
+- Eithne 'La Emperadora' tiene 48.39 de salud restante.
+
+
+
+Se ha alcanzado el límite de rondas. En caso de que los personajes sigan vivos, podrán ser utilizados en futuras batallas.
+
+
+De forma aleatoria, se ha decidido que comience el jugador 2 atacando. Los personajes de esta ronda serán:
+Jugador 1: Zelda 'La Sabia'
+Jugador 2: Merlin 'El Hechizado'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Zelda 'La Sabia' a martillazos, provocándole 2.33 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 58.83 de salud restante.
+- Zelda 'La Sabia' tiene 10.97 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Merlin 'El Hechizado' a cuchillazos, provocándole 3.24 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 10.97 de salud restante.
+- Merlin 'El Hechizado' tiene 55.59 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Zelda 'La Sabia' a machetazos, provocándole 0.0 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 55.59 de salud restante.
+- Zelda 'La Sabia' tiene 10.97 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Merlin 'El Hechizado' a martillazos, provocándole 0.17 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 10.97 de salud restante.
+- Merlin 'El Hechizado' tiene 55.42 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Zelda 'La Sabia' a martillazos, provocándole 1.86 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 55.42 de salud restante.
+- Zelda 'La Sabia' tiene 9.11 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Merlin 'El Hechizado' a machetazos, provocándole 2.03 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 9.11 de salud restante.
+- Merlin 'El Hechizado' tiene 53.39 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Zelda 'La Sabia' a machetazos, provocándole 2.29 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 53.39 de salud restante.
+- Zelda 'La Sabia' tiene 6.82 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Merlin 'El Hechizado' a golpes, provocándole 5.22 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 6.82 de salud restante.
+- Merlin 'El Hechizado' tiene 48.17 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Zelda 'La Sabia' a machetazos, provocándole 2.19 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 48.17 de salud restante.
+- Zelda 'La Sabia' tiene 4.63 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Merlin 'El Hechizado' a machetazos, provocándole 5.75 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 4.63 de salud restante.
+- Merlin 'El Hechizado' tiene 42.42 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Zelda 'La Sabia' a machetazos, provocándole 1.67 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 42.42 de salud restante.
+- Zelda 'La Sabia' tiene 2.96 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Merlin 'El Hechizado' a machetazos, provocándole 0.07 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 2.96 de salud restante.
+- Merlin 'El Hechizado' tiene 42.35 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Zelda 'La Sabia' a machetazos, provocándole 1.26 de daño. Zelda, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 42.35 de salud restante.
+- Zelda 'La Sabia' tiene 1.7 de salud restante.
+
+
+-------- Ataque Zelda --------
+Zelda 'La Sabia' intentó atacar a Merlin 'El Hechizado' a golpes, provocándole 3.25 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Zelda 'La Sabia' tiene 1.7 de salud restante.
+- Merlin 'El Hechizado' tiene 39.1 de salud restante.
+
+
+
+Se ha alcanzado el límite de rondas. En caso de que los personajes sigan vivos, podrán ser utilizados en futuras batallas.
+
+
+De forma aleatoria, se ha decidido que comience el jugador 1 atacando. Los personajes de esta ronda serán:
+Jugador 1: Olive 'La Sabia'
+Jugador 2: Merlin 'El Hechizado'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Merlin 'El Hechizado' a martillazos, provocándole 0.02 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 15.09 de salud restante.
+- Merlin 'El Hechizado' tiene 39.08 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Olive 'La Sabia' a cuchillazos, provocándole 1.13 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 39.08 de salud restante.
+- Olive 'La Sabia' tiene 13.96 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Merlin 'El Hechizado' a martillazos, provocándole 1.54 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 13.96 de salud restante.
+- Merlin 'El Hechizado' tiene 37.54 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Olive 'La Sabia' a golpes, provocándole 0.07 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 37.54 de salud restante.
+- Olive 'La Sabia' tiene 13.89 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Merlin 'El Hechizado' a cuchillazos, provocándole 1.38 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 13.89 de salud restante.
+- Merlin 'El Hechizado' tiene 36.16 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Olive 'La Sabia' a martillazos, provocándole 0.54 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 36.16 de salud restante.
+- Olive 'La Sabia' tiene 13.35 de salud restante.
+
+
+-------- Ronda 4 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Merlin 'El Hechizado' a golpes, provocándole 2.11 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 13.35 de salud restante.
+- Merlin 'El Hechizado' tiene 34.05 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Olive 'La Sabia' a martillazos, provocándole 1.08 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 34.05 de salud restante.
+- Olive 'La Sabia' tiene 12.27 de salud restante.
+
+
+-------- Ronda 5 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Merlin 'El Hechizado' a machetazos, provocándole 2.04 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 12.27 de salud restante.
+- Merlin 'El Hechizado' tiene 32.01 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Olive 'La Sabia' a martillazos, provocándole 2.36 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 32.01 de salud restante.
+- Olive 'La Sabia' tiene 9.91 de salud restante.
+
+
+-------- Ronda 6 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Merlin 'El Hechizado' a machetazos, provocándole 1.28 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 9.91 de salud restante.
+- Merlin 'El Hechizado' tiene 30.73 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Olive 'La Sabia' a cuchillazos, provocándole 2.1 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 30.73 de salud restante.
+- Olive 'La Sabia' tiene 7.81 de salud restante.
+
+
+-------- Ronda 7 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Merlin 'El Hechizado' a golpes, provocándole 1.44 de daño. Merlin, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 7.81 de salud restante.
+- Merlin 'El Hechizado' tiene 29.29 de salud restante.
+
+
+-------- Ataque Merlin --------
+Merlin 'El Hechizado' intentó atacar a Olive 'La Sabia' a martillazos, provocándole 1.49 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Merlin 'El Hechizado' tiene 29.29 de salud restante.
+- Olive 'La Sabia' tiene 6.32 de salud restante.
+
+
+
+Se ha alcanzado el límite de rondas. En caso de que los personajes sigan vivos, podrán ser utilizados en futuras batallas.
+
+
+De forma aleatoria, se ha decidido que comience el jugador 1 atacando. Los personajes de esta ronda serán:
+Jugador 1: Olive 'La Sabia'
+Jugador 2: Eithne 'La Emperadora'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a cuchillazos, provocándole 0.82 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 6.32 de salud restante.
+- Eithne 'La Emperadora' tiene 47.57 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a machetazos, provocándole 1.87 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 47.57 de salud restante.
+- Olive 'La Sabia' tiene 4.45 de salud restante.
+
+
+-------- Ronda 2 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a golpes, provocándole 0.5 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 4.45 de salud restante.
+- Eithne 'La Emperadora' tiene 47.07 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a golpes, provocándole 1.79 de daño. Olive, tuvo suerte y logró esquivar el ataque.
+- Eithne 'La Emperadora' tiene 47.07 de salud restante.
+- Olive 'La Sabia' tiene 2.66 de salud restante.
+
+
+-------- Ronda 3 --------
+
+
+-------- Ataque Olive --------
+Olive 'La Sabia' intentó atacar a Eithne 'La Emperadora' a machetazos, provocándole 0.09 de daño. Eithne, tuvo suerte y logró esquivar el ataque.
+- Olive 'La Sabia' tiene 2.66 de salud restante.
+- Eithne 'La Emperadora' tiene 46.98 de salud restante.
+
+
+-------- Ataque Eithne --------
+Eithne 'La Emperadora' intentó atacar a Olive 'La Sabia' a cuchillazos, provocándole 4.76 de daño. Por desgracia, Olive no logró esquivar el ataque, falleciendo al instante.
+- Eithne 'La Emperadora' tiene 46.98 de salud restante.
+- Olive 'La Sabia' ha muerto en combate. Sin embargo, su nombre quedará en la inmortalidad por dar su vida en la batalla.
+
+
+
+Al jugador 1 le queda (n) 2 personaje (s) vivo (s).
+
+Al jugador 2 le queda (n) 3 personaje (s) vivo (s).
+
+
+De forma aleatoria, se ha decidido que comience el jugador 1 atacando. Los personajes de esta ronda serán:
+Jugador 1: Jeremiah 'El Impotente'
+Jugador 2: Bahram 'El Santo'
+
+
+[Partida comenzada el: 14-09-2023 04:59:05]
+
+----- Personaje Creado -----
+----- Jugador 1 -----
+
+Raza: Elfo
+Nombre: Björn
+Apodo: El Justo
+Género: Hombre
+Fecha de Nacimiento (dd-MM-yyyy): 1756-02-28
+Edad: 267
+Velocidad: 5
+Fuerza: 3
+Nivel: 7
+Armadura: 1
+Destreza: 3
+
+----- Personaje Creado -----
+----- Jugador 2 -----
+
+Raza: Orco
+Nombre: Zelda
+Apodo: La Honesta
+Género: Mujer
+Fecha de Nacimiento (dd-MM-yyyy): 1867-07-24
+Edad: 156
+Velocidad: 4
+Fuerza: 6
+Nivel: 1
+Armadura: 10
+Destreza: 1
+
+----- Personaje Creado -----
+----- Jugador 1 -----
+
+Raza: Orco
+Nombre: Theodoric
+Apodo: El Impotente
+Género: Hombre
+Fecha de Nacimiento (dd-MM-yyyy): 1970-11-27
+Edad: 53
+Velocidad: 6
+Fuerza: 9
+Nivel: 4
+Armadura: 3
+Destreza: 5
+
+----- Personaje Creado -----
+----- Jugador 2 -----
+
+Raza: Elfo
+Nombre: Eithne
+Apodo: La Chiquilla
+Género: Mujer
+Fecha de Nacimiento (dd-MM-yyyy): 1876-01-24
+Edad: 147
+Velocidad: 8
+Fuerza: 1
+Nivel: 8
+Armadura: 8
+Destreza: 3
+
+----- Personaje Creado -----
+----- Jugador 1 -----
+
+Raza: Elfo
+Nombre: Clotilda
+Apodo: La Piadosa
+Género: Mujer
+Fecha de Nacimiento (dd-MM-yyyy): 2003-04-10
+Edad: 20
+Velocidad: 2
+Fuerza: 9
+Nivel: 10
+Armadura: 4
+Destreza: 5
+
+----- Personaje Creado -----
+----- Jugador 2 -----
+
+Raza: Humano
+Nombre: Conrad
+Apodo: El Justo
+Género: Hombre
+Fecha de Nacimiento (dd-MM-yyyy): 1864-01-09
+Edad: 159
+Velocidad: 2
+Fuerza: 3
+Nivel: 4
+Armadura: 6
+Destreza: 3
+
+--- ¡Comienza la batalla! ---
+
+Límite de ataques por personaje: 7
+
+
+De forma aleatoria, se ha decidido que comience el jugador 1 atacando. Los personajes de esta ronda serán:
+Jugador 1: Björn 'El Justo'
+Jugador 2: Conrad 'El Justo'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Björn --------
+Björn 'El Justo' intentó atacar a Conrad 'El Justo' a golpes, provocándole 1.0 de daño. Por desgracia, Conrad no logró esquivar el ataque, falleciendo al instante.
+- Björn 'El Justo' tiene 1.0 de salud restante.
+- Conrad 'El Justo' ha muerto en combate. Sin embargo, su nombre quedará en la inmortalidad por dar su vida en la batalla.
+
+
+
+Al jugador 1 le queda (n) 3 personaje (s) vivo (s).
+
+Al jugador 2 le queda (n) 2 personaje (s) vivo (s).
+
+
+Quisimos ser justos, y decidimos darle ventaja al jugador 2 para que él comience atacando esta vez. Los personajes de esta ronda serán:
+Jugador 1: Björn 'El Justo'
+Jugador 2: Zelda 'La Honesta'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Honesta' intentó atacar a Björn 'El Justo' a machetazos, provocándole 8.71 de daño. Por desgracia, Björn no logró esquivar el ataque, falleciendo al instante.
+- Zelda 'La Honesta' tiene 1.0 de salud restante.
+- Björn 'El Justo' ha muerto en combate. Sin embargo, su nombre quedará en la inmortalidad por dar su vida en la batalla.
+
+
+
+Al jugador 1 le queda (n) 2 personaje (s) vivo (s).
+
+Al jugador 2 le queda (n) 2 personaje (s) vivo (s).
+
+
+Quisimos ser justos, y decidimos darle ventaja al jugador 1 para que él comience atacando esta vez. Los personajes de esta ronda serán:
+Jugador 1: Theodoric 'El Impotente'
+Jugador 2: Eithne 'La Chiquilla'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Theodoric --------
+Theodoric 'El Impotente' intentó atacar a Eithne 'La Chiquilla' a martillazos, provocándole 19.35 de daño. Por desgracia, Eithne no logró esquivar el ataque, falleciendo al instante.
+- Theodoric 'El Impotente' tiene 1.0 de salud restante.
+- Eithne 'La Chiquilla' ha muerto en combate. Sin embargo, su nombre quedará en la inmortalidad por dar su vida en la batalla.
+
+
+
+Al jugador 1 le queda (n) 2 personaje (s) vivo (s).
+
+Al jugador 2 le queda (n) 1 personaje (s) vivo (s).
+
+
+Quisimos ser justos, y decidimos darle ventaja al jugador 2 para que él comience atacando esta vez. Los personajes de esta ronda serán:
+Jugador 1: Clotilda 'La Piadosa'
+Jugador 2: Zelda 'La Honesta'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Zelda --------
+Zelda 'La Honesta' intentó atacar a Clotilda 'La Piadosa' a machetazos, provocándole 8.07 de daño. Por desgracia, Clotilda no logró esquivar el ataque, falleciendo al instante.
+- Zelda 'La Honesta' tiene 1.0 de salud restante.
+- Clotilda 'La Piadosa' ha muerto en combate. Sin embargo, su nombre quedará en la inmortalidad por dar su vida en la batalla.
+
+
+
+Al jugador 1 le queda (n) 1 personaje (s) vivo (s).
+
+Al jugador 2 le queda (n) 1 personaje (s) vivo (s).
+
+
+Quisimos ser justos, y decidimos darle ventaja al jugador 1 para que él comience atacando esta vez. Los personajes de esta ronda serán:
+Jugador 1: Theodoric 'El Impotente'
+Jugador 2: Zelda 'La Honesta'
+
+
+-------- Ronda 1 --------
+
+
+-------- Ataque Theodoric --------
+Theodoric 'El Impotente' intentó atacar a Zelda 'La Honesta' a cuchillazos, provocándole 19.6 de daño. Por desgracia, Zelda no logró esquivar el ataque, falleciendo al instante.
+- Theodoric 'El Impotente' tiene 1.0 de salud restante.
+- Zelda 'La Honesta' ha muerto en combate. Sin embargo, su nombre quedará en la inmortalidad por dar su vida en la batalla.
+
+
+
+Al jugador 1 le queda (n) 1 personaje (s) vivo (s).
+
+Han muerto todos los personajes del jugador 2.
+
+--- Felicitaciones Jugador 1 ---
+
+¡Eres el conquistador del trono!
+
+Tus soldados:
+1- [Elfo] Björn 'El Justo' [Salud: 0.0]
+2- [Orco] Theodoric 'El Impotente' [Salud: 1.0]
+3- [Elfo] Clotilda 'La Piadosa' [Salud: 0.0]
+
+
+

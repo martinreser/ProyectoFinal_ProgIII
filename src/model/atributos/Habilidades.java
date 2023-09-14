@@ -1,14 +1,16 @@
-package model;
+package model.atributos;
 
-import java.util.Random;
+import utilidades.RandomNumberCreator;
 
 public class Habilidades {
+    // ATRIBUTOS
     private int velocidadPersonaje;     // de 1 a 10
     private int destrezaPersonaje;      // de 1 a 5
     private int fuerzaPersonaje;        // de 1 a 10
     private int nivelPersonaje;         // de 1 a 10
     private int armaduraPersonaje;      // de 1 a 10
 
+    // CONSTRUCTOR
     public Habilidades(int velocidadPersonaje, int destrezaPersonaje, int fuerzaPersonaje, int nivelPersonaje, int armaduraPersonaje) {
         this.velocidadPersonaje = velocidadPersonaje;
         this.destrezaPersonaje = destrezaPersonaje;
@@ -17,60 +19,32 @@ public class Habilidades {
         this.armaduraPersonaje = armaduraPersonaje;
     }
 
+    // MÉTODOS
     public int calcularPoderDisparo(){
         return (destrezaPersonaje * fuerzaPersonaje * nivelPersonaje);
     }
-
-    public int calcularEfectividad() {
-        Random random = new Random();
-        return (random.nextInt(100));
+    public double calcularEfectividad() {
+        return (RandomNumberCreator.getInstance().generateRandomDouble(0.0, 1.0));
     }
-
-    public int calcularValorAtaque() {
-        return (calcularEfectividad() * calcularPoderDisparo());
+    public double calcularValorAtaque() {
+        return calcularEfectividad() * calcularPoderDisparo();
     }
-
     public int calcularPoderDefensa() {
         return (velocidadPersonaje * armaduraPersonaje);
     }
-
     public int getVelocidadPersonaje() {
         return velocidadPersonaje;
     }
-
-    public void setVelocidadPersonaje(int velocidadPersonaje) {
-        this.velocidadPersonaje = velocidadPersonaje;
-    }
-
     public int getDestrezaPersonaje() {
         return destrezaPersonaje;
     }
-
-    public void setDestrezaPersonaje(int destrezaPersonaje) {
-        this.destrezaPersonaje = destrezaPersonaje;
-    }
-
     public int getFuerzaPersonaje() {
         return fuerzaPersonaje;
     }
-
-    public void setFuerzaPersonaje(int fuerzaPersonaje) {
-        this.fuerzaPersonaje = fuerzaPersonaje;
-    }
-
     public int getNivelPersonaje() {
         return nivelPersonaje;
     }
-
-    public void setNivelPersonaje(int nivelPersonaje) {
-        this.nivelPersonaje = nivelPersonaje;
-    }
-
     public int getArmaduraPersonaje() {
         return armaduraPersonaje;
-    }
-
-    public void setArmaduraPersonaje(int armaduraPersonaje) {
-        this.armaduraPersonaje = armaduraPersonaje;
     }
 }
